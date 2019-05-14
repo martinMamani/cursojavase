@@ -127,6 +127,8 @@ public class Clase01 {
     
     String texto = "hola";
     System.out.println(texto);
+    String txt = "mundo";
+    System.out.println(txt);
     
     //en jdk8 la variable texto ,ocupa 8 bytes por que usa internamente un
     // array char.
