@@ -1,0 +1,5 @@
+Rojo
+Verde
+Negro
+Violeta
+Bordo
