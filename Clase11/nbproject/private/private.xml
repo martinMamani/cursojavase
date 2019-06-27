@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/martinMamani/Clase11/src/ar/com/eduit/curso/java/enumerados/Turno.java</file>
+            <file>file:/E:/martinMamani/Clase11/src/ar/com/eduit/curso/java/repositories/jdbc/CursoR.java</file>
+            <file>file:/E:/martinMamani/Clase11/src/ar/com/eduit/curso/java/test/TestConnection.java</file>
+            <file>file:/E:/martinMamani/Clase11/src/ar/com/eduit/curso/java/enumerados/Dia.java</file>
+            <file>file:/E:/martinMamani/Clase11/src/ar/com/eduit/curso/java/repositories/interfaces/I_AlumnoR.java</file>
+            <file>file:/E:/martinMamani/Clase11/src/ar/com/eduit/curso/java/test/TestRepositories.java</file>
+            <file>file:/E:/martinMamani/Clase11/src/ar/com/eduit/curso/java/connectors/ConnectorMySQL.java</file>
+            <file>file:/E:/martinMamani/Clase11/src/ar/com/eduit/curso/java/sql/Base.sql</file>
+            <file>file:/E:/martinMamani/Clase11/src/ar/com/eduit/curso/java/entidades/Curso.java</file>
+            <file>file:/E:/martinMamani/Clase11/src/ar/com/eduit/curso/java/entidades/Alumno.java</file>
+            <file>file:/E:/martinMamani/Clase11/src/ar/com/eduit/curso/java/repositories/interfaces/I_CursoR.java</file>
+        </group>
+    </open-files>
+</project-private>
