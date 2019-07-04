@@ -1,0 +1,15 @@
+Curso de Java.
+Primavera.
+Verano.
+Otoño.
+Invierno.
+Lunes
+Lunes
+Martes
+Miércoles
+Jueves
+Jueves
+Viernes
+Rojo
+Rojo
+Azul
